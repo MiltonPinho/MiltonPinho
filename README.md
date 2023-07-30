@@ -1,16 +1,14 @@
-### Hi there 👋
+### Olá eu sou o Milton Pinho ✋
 
-<!--
-**MiltonPinho/MiltonPinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milton-pinho-103876231/)
 
-Here are some ideas to get you started:
+![MiltonPinho GitHub stats](https://github-readme-stats.vercel.app/api?username=MiltonPinho&show_icons=true&theme=dracula)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias que uso no meu dia :
+
+<div style= "display: inline_block"><br/>
+
+<img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+</div><br/>
+
+Atualmente faço ADS e estou buscando ao máximo o aprenizado da linguagem Java, estou com foco também em ser um futuro QA. Com foco e compromisso chegarei ao objetivo de ser um desenvolvedor qualificado para o mercado.
